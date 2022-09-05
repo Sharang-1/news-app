@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:news_app/modals/news_model.dart';
 import 'package:provider/provider.dart';
 
+import '/modals/news_model.dart';
 import '../../../modals/news_api.dart';
 import '../../news/view/news_detail.dart';
 import '/modules/home/widgets/news_main_thumb_widget.dart';

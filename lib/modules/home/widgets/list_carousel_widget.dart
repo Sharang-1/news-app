@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:news_app/modals/news_api.dart';
 import 'package:provider/provider.dart';
 
+import '/modals/news_api.dart';
 import 'news_list_item_widget.dart';
 
 class ListCarouselWidget extends StatelessWidget {

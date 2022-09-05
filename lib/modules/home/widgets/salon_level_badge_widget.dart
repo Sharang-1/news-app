@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:news_app/modals/news_model.dart';
+
+import '/modals/news_model.dart';
 
 class NewsBadgeWidget extends StatelessWidget {
   const NewsBadgeWidget({
